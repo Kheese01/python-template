@@ -1,0 +1,39 @@
+# ======================================
+# Python
+# ======================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+
+# Test
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Outputs
+outputs/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/settings.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
